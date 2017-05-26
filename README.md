@@ -1,3 +1,1 @@
-# algorithm-P3
-
-Tree class
+# Tree class
